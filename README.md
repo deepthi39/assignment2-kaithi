@@ -18,3 +18,8 @@ My Favourite Destination - Maldives
 6. Land in DFW airport Texas and get another flight to DOH airport Doha
 7. Land in DOH airport and get flight to MLE airport Maldives
 8. Finally land in DOH airport Maldives
+
+*  First and foremost aspect bring a gang of friends
+*  Bring Awesome Camera
+*  Bring games
+      * Like Sequence and Uno
