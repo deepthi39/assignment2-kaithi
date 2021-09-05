@@ -47,6 +47,7 @@ Table below mentions food i would like to recommand others to try!
 ### Inspiring Quotes
 
 > "Dont stop until you are done." *Swami Vivekananda*
+
 > "The way to get started is to quit talking and begin doing."  *APJ AbdulKalam*
 
 ***
