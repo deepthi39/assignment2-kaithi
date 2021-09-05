@@ -41,3 +41,12 @@ Table below mentions food i would like to recommand others to try!
 | Wings | KFC Chicken | $17.85 |
 
 ***
+
+***
+
+### Inspiring Quotes
+
+> "Dont stop until you are done." *Swami Vivekananda*
+> "The way to get started is to quit talking and begin doing."  *APJ AbdulKalam*
+
+***
