@@ -51,3 +51,17 @@ Table below mentions food i would like to recommand others to try!
 > "The way to get started is to quit talking and begin doing."  *APJ AbdulKalam*
 
 ***
+
+***
+
+### Algorithm
+
+> Given a graph G = (V, E), a matching M in G is a set of pairwise non-adjacent edges, none of which are loops; that is, no two edges share common vertices.
+
+> A vertex is matched (or saturated) if it is an endpoint of one of the edges in the matching. Otherwise the vertex is unmatched.
+
+>  A maximal matching is a matching M of a graph G that is not a subset of any other matching. A matching M of a graph G is maximal if every edge in G has a non-empty intersection with at least one edge in M. The following figure shows examples of maximal matchings (red) in three graphs.
+
+[Link for the source](https://en.wikipedia.org/wiki/Matching_(graph_theory))
+
+***
