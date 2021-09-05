@@ -33,9 +33,9 @@ Favourite food
 Table below mentions food i would like to recommand others to try!
 Item| Place| price|
 |------|------|------|
-Chicken biryani| Paradise| $40.00|
-Burger| BurgerKing| $12.55|
-Veg Biryani| GreenTreet| $28.60|
-Wings| KFC Chicken| $17.85|
+|Chicken biryani| Paradise| $40.00|
+|Burger| BurgerKing| $12.55|
+|Vg Biryani| GreenTreet| $28.60|
+|Wings| KFC Chicken| $17.85|
 
 ***
