@@ -23,3 +23,5 @@ My Favourite Destination - Maldives
 *  Bring Awesome Camera
 *  Bring games
       * Like Sequence and Uno
+
+[Link to AboutMe](./AboutMe.md)
