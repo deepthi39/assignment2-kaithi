@@ -4,12 +4,11 @@
 
 ###### Maldives
 
-Maldives is the country in South Asia. This place is situated in Indian Ocean and it has the **best Climate** so its the **best place to relax** moreover the most attracting thing in Maldives is **Underwater Scenery**. The main reason i like maldives is it provides me **peaceful environment**.
-
+**Maldives** is the country in South Asia. This place is situated in Indian Ocean and it has the **best Climate** so its the **best place to relax** moreover the most attracting thing in Maldives is **Underwater Scenery**. The main reason i like maldives is it provides me **peaceful environment**.
 
 ------
 
-### My Favourite Destination - Maldives
+# My Favourite Destination - Maldives
 
 1. Go to Kansas MCI airport USA
       1. By Booking a cab 
@@ -19,7 +18,7 @@ Maldives is the country in South Asia. This place is situated in Indian Ocean an
 7. Land in DOH airport and get flight to MLE airport Maldives
 8. Finally land in DOH airport Maldives
 
-### List of things to be carried for maximum enjoyment!
+# List of things to be carried for maximum enjoyment!
 
 *  First and foremost aspect bring a gang of friends
 *  Bring Awesome Camera
@@ -30,7 +29,7 @@ Maldives is the country in South Asia. This place is situated in Indian Ocean an
 
 ***
 
-### Favourite food
+# Favourite food
 
 Table below mentions food i would like to recommand others to try!
 | Item | Place | price |
@@ -44,7 +43,7 @@ Table below mentions food i would like to recommand others to try!
 
 ***
 
-### Inspiring Quotes
+# Inspiring Quotes
 
 > "Dont stop until you are done." *Swami Vivekananda*
 
@@ -54,7 +53,7 @@ Table below mentions food i would like to recommand others to try!
 
 ***
 
-### Algorithm
+# Algorithm
 
 > Given a graph G = (V, E), a matching M in G is a set of pairwise non-adjacent edges, none of which are loops; that is, no two edges share common vertices.
 
